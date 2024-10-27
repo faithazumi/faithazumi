@@ -43,7 +43,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/fa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fa&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qt3qd09tkacx19j7g40sviqjk)"  />
   </a>
 </div>
 
@@ -53,7 +53,7 @@
   <a href="https://discord.com/channels/@fth4z" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="instagram.com/mohfaithh" target="_blank">
+  <a href="[instagram.com/mohfaithh](https://www.instagram.com/mohfaithh)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
