@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently studying in SMK PLUS PELITA NUSANTARA<br>🌱 I’m currently learning NextJs,ReactJS,TailwindCSS<br>⚡ Fun fact im 100% nonchalant
+
+
 
 
 ## 🌐 Socials:
